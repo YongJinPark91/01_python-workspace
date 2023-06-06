@@ -2,7 +2,7 @@
 i = 0
 
 while True :
-    print("{}번째 반복입니다.".format(i))
+    print("{}번째 반복입니다.".format(i))45
     i += 1
     if i > 10:
         break
